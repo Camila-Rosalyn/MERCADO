@@ -2,4 +2,5 @@ frutas
 verduras
 zanahoria
 patata
-uvasxxx
+uvas
+apio
