@@ -4,3 +4,5 @@ zanahoria
 patata
 uvas
 apio
+manzana
+col
